@@ -40,10 +40,10 @@ A Calendar dimension was generated using the CALENDAR() function, covering all d
 - Utilization & Impact by Region
 
 ## Tools Used
-- Figma (Making a mockup dashboard)
-- Power Query (Data Transformation)
-- Power BI (Data Modeling & Visualization)
-- DAX (Measures Calculation)
+- **Figma** (Making a mockup dashboard)
+- **Power Query** (Data Transformation)
+- **Power BI** (Data Modeling & Visualization)
+- **DAX** (Measures Calculation)
 
 ## Final Dashboards
 <img width="923" height="820" alt="dashboard1" src="https://github.com/user-attachments/assets/14c84270-88c4-4248-97a4-a2216145fd0a" />
